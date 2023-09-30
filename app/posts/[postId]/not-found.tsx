@@ -1,7 +1,7 @@
 const NotFound = () => {
   return (
     <h1 className="flex flex-row justify-center mt-5 text-xl text-center ">
-      Seems like you're lost!
+      Seems like you&apos;re lost!
       <br />
       The requested page does not exist 👀.
     </h1>
