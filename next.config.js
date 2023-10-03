@@ -5,7 +5,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
     loader: "akamai",
-    path: "/",
+    path: "/next-js-blog",
   },
 };
 
