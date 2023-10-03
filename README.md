@@ -2,8 +2,17 @@
 
 This is a blog made with **Next JS**, **Typescript**, & **Tailwind**.
 
-The project was mainly made for practice and wasn't meant to be showcased on my resume or portfolio.
-This blog is made similarly to the tutorial project on Next JS documentaion.
+The project featuers many of the Next JS cutting edge abilities. The blog posts are markdown files made into html syntax with packages like *grey-matter* and *remark*. 
+
+Each blog post has a page of it own with dynamic routing and metadata specific to its own.
+
+The posts get rendered using *SSG* method while other components of the webpage are *CSR* or *SSR*. 
+
+The app also features a tailored *not found* page for routes that aren't available. This project uses the *app folder routing* method which was introduced in Next Js 13.
+
+*The app is currently under development and is not the final version but it's still completely functional.*
+
+To see the app for yourself download the project and run one of the command lines from below:
 
 ## Getting Started
 
