@@ -2,6 +2,8 @@
 
 This is a blog made with **Next JS**, **Typescript**, & **Tailwind**.
 
+See it for yourself at: [https://sina-hgs.github.io/next-js-blog/](https://sina-hgs.github.io/next-js-blog/)
+
 ![The main Page (dark mode)](https://github.com/Sina-Hgs/next-js-blog/assets/103804601/09e21c24-8597-4cf2-9270-90f3f9c7e672)
 
 ---
@@ -17,7 +19,7 @@ The posts get rendered using ***SSG*** method while other components of the webp
 
 The app also features a tailored *not found* page for routes that aren't available. This project uses the *app folder routing* method which was introduced in Next Js 13. The styling was done with **_TailwindCSS_** and is fully responsive with both dark mode and light mode.
 
-To see the app for yourself download the project and run one of the command lines from below:
+To see the app for yourself either visit [this link](https://sina-hgs.github.io/next-js-blog/) or download the project and run one of the command lines from below:
 
 ## Getting Started
 
